@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/PortfolioWebsite/static/css/main.ec2a5f5d.css",
+    "main.js": "/PortfolioWebsite/static/js/main.c3861560.js",
+    "static/media/project9.jpg": "/PortfolioWebsite/static/media/project9.7e10b78179ee665298cd.jpg",
+    "static/media/project6.jpg": "/PortfolioWebsite/static/media/project6.4e8ab78eb40a0f03bc88.jpg",
+    "static/media/about.jpg": "/PortfolioWebsite/static/media/about.7fb2e6ce4016c57c5798.jpg",
+    "static/media/project7.jpg": "/PortfolioWebsite/static/media/project7.4389651d5816bb277c4a.jpg",
+    "static/media/logo.jpg": "/PortfolioWebsite/static/media/logo.1c7e93e7cf1fef3d2bdf.jpg",
+    "static/media/project8.jpg": "/PortfolioWebsite/static/media/project8.16ed43794953534af05c.jpg",
+    "static/media/project4.jpg": "/PortfolioWebsite/static/media/project4.9e2e36250226a4ebb82b.jpg",
+    "static/media/project2.jpg": "/PortfolioWebsite/static/media/project2.d4ca506cbd979283014a.jpg",
+    "static/media/project1.jpg": "/PortfolioWebsite/static/media/project1.5cec46bd193a7eb80f22.jpg",
+    "static/media/project3.jpg": "/PortfolioWebsite/static/media/project3.746fa9dfecfb9e491ef1.jpg",
+    "static/media/project5.jpg": "/PortfolioWebsite/static/media/project5.fdd0c6a0d639a9c75455.jpg",
+    "static/media/header.jpg": "/PortfolioWebsite/static/media/header.1a3e5a0f7eaafd8f1381.jpg",
+    "static/media/avatar5.jpg": "/PortfolioWebsite/static/media/avatar5.d25e9a28e32aa5201afa.jpg",
+    "static/media/avatar7.jpg": "/PortfolioWebsite/static/media/avatar7.ce63ba75f4177d9803fc.jpg",
+    "static/media/cv.pdf": "/PortfolioWebsite/static/media/cv.b7b4ecc9c6b1b6536a47.pdf",
+    "static/media/avatar6.jpg": "/PortfolioWebsite/static/media/avatar6.8fbcd9d41881b442663e.jpg",
+    "index.html": "/PortfolioWebsite/index.html",
+    "main.ec2a5f5d.css.map": "/PortfolioWebsite/static/css/main.ec2a5f5d.css.map",
+    "main.c3861560.js.map": "/PortfolioWebsite/static/js/main.c3861560.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec2a5f5d.css",
+    "static/js/main.c3861560.js"
+  ]
+}
